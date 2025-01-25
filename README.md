@@ -34,3 +34,24 @@ O projeto foi cuidadosamente estilizado com:
 - **Design responsivo** para dispositivos móveis, tablets e desktops.
 
 ---
+# Biblioteca Encantada - CRUD Livrópolis
+
+## Home - Tema Claro sem livros
+![Home - Tema Claro](biblioteca-encantada/src/assets/home1.png)
+
+## Home - Tema Claro com livros
+![Home - Tema Claro com Pesquisa](biblioteca-encantada/src/assets/home2.png)
+
+## Home - Tema Escuro
+![Home - Tema Escuro](biblioteca-encantada/src/assets/homeDarkTheme.png)
+
+## Adicionar Livro
+![Adicionar Livro](biblioteca-encantada/src/assets/addBook.png)
+
+## Editar Livro
+![Editar Livro](biblioteca-encantada/src/assets/editBook.png)
+
+## Detalhes do Livro
+![Detalhes do Livro](biblioteca-encantada/src/assets/bookDetails.png)
+
+
